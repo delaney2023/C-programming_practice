@@ -37,3 +37,7 @@ network drivers;
 modern programs, such as Git and FreeBSD;
 language interpreters; and
 utilities, such as network drivers, mouse drivers and keyboard drivers.
+
+C Variables
+In computer programming a variable is a name given to a memory loation inside out computer where we can store data
+
